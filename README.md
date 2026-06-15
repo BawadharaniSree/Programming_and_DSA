@@ -1,7 +1,11 @@
 # Programming_and_DSA
+
+<a name="my-custom-anchor-point"></a>
 ## Second Headings
+
 ### Third Headings
-#### 4th try 
+
+#### 4th try
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
@@ -10,14 +14,16 @@
 </picture>
 
 Some basic git commands are:
+
 ```bash
-git status 
-git add 
+git status
+git add
 git commit
 ```
+
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-`#0969DA`   
+`#0969DA`  
 `rgb(31, 173, 74)`
 `hsl(212, 92%, 45%)`
 

@@ -1,4 +1,4 @@
 # Programming_and_DSA
 
-LeetCode Problems
+LeetCode Coding Problems
 - [[1] Two Sum](Array/1_Two_Sum)

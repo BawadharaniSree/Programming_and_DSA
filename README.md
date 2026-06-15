@@ -31,7 +31,7 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode.
 # Section Heading
 
 Some body text of this section.
-
+<br/>
 <a name="my-custom-anchor-point"></a>
 Some text I want to provide a direct link to, but which doesn't have its own heading.
 

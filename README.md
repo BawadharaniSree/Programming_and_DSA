@@ -37,6 +37,8 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 (… more content…)
 
-[A link to that custom anchor](#my-custom-anchor-point)
+[A link to that custom anchor](#my-custom-anchor-point)<br>
 
-[link to 4th sty](#4th-try)
+[link to 4th sty](#4th-try)\
+
+[Array](#Array)
